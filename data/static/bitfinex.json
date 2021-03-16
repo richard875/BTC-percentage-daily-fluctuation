@@ -1,0 +1,1502 @@
+[
+  {
+    "description": "BITFINEX ETH/2X:USD",
+    "displaySymbol": "ETH/2X:USD",
+    "symbol": "BITFINEX:ETH2X:USD"
+  },
+  {
+    "description": "BITFINEX WPR/USD",
+    "displaySymbol": "WPR/USD",
+    "symbol": "BITFINEX:WPRUSD"
+  },
+  {
+    "description": "BITFINEX DUS/K:USD",
+    "displaySymbol": "DUS/K:USD",
+    "symbol": "BITFINEX:DUSK:USD"
+  },
+  {
+    "description": "BITFINEX IQX/USD",
+    "displaySymbol": "IQX/USD",
+    "symbol": "BITFINEX:IQXUSD"
+  },
+  {
+    "description": "BITFINEX ANT/ETH",
+    "displaySymbol": "ANT/ETH",
+    "symbol": "BITFINEX:ANTETH"
+  },
+  {
+    "description": "BITFINEX UDC/USD",
+    "displaySymbol": "UDC/USD",
+    "symbol": "BITFINEX:UDCUSD"
+  },
+  {
+    "description": "BITFINEX NEO/JPY",
+    "displaySymbol": "NEO/JPY",
+    "symbol": "BITFINEX:NEOJPY"
+  },
+  {
+    "description": "BITFINEX YGG/USD",
+    "displaySymbol": "YGG/USD",
+    "symbol": "BITFINEX:YGGUSD"
+  },
+  {
+    "description": "BITFINEX BCH/N:USD",
+    "displaySymbol": "BCH/N:USD",
+    "symbol": "BITFINEX:BCHN:USD"
+  },
+  {
+    "description": "BITFINEX TES/TBTC:TESTUSD",
+    "displaySymbol": "TES/TBTC:TESTUSD",
+    "symbol": "BITFINEX:TESTBTC:TESTUSD"
+  },
+  {
+    "description": "BITFINEX ETC/BTC",
+    "displaySymbol": "ETC/BTC",
+    "symbol": "BITFINEX:ETCBTC"
+  },
+  {
+    "description": "BITFINEX UOS/USD",
+    "displaySymbol": "UOS/USD",
+    "symbol": "BITFINEX:UOSUSD"
+  },
+  {
+    "description": "BITFINEX XCH/ETH",
+    "displaySymbol": "XCH/ETH",
+    "symbol": "BITFINEX:XCHETH"
+  },
+  {
+    "description": "BITFINEX NCA/USD",
+    "displaySymbol": "NCA/USD",
+    "symbol": "BITFINEX:NCAUSD"
+  },
+  {
+    "description": "BITFINEX MKR/ETH",
+    "displaySymbol": "MKR/ETH",
+    "symbol": "BITFINEX:MKRETH"
+  },
+  {
+    "description": "BITFINEX UNI/UST",
+    "displaySymbol": "UNI/UST",
+    "symbol": "BITFINEX:UNIUST"
+  },
+  {
+    "description": "BITFINEX USK/USD",
+    "displaySymbol": "USK/USD",
+    "symbol": "BITFINEX:USKUSD"
+  },
+  {
+    "description": "BITFINEX ZIL/USD",
+    "displaySymbol": "ZIL/USD",
+    "symbol": "BITFINEX:ZILUSD"
+  },
+  {
+    "description": "BITFINEX XRP/UST",
+    "displaySymbol": "XRP/UST",
+    "symbol": "BITFINEX:XRPUST"
+  },
+  {
+    "description": "BITFINEX BAL/UST",
+    "displaySymbol": "BAL/UST",
+    "symbol": "BITFINEX:BALUST"
+  },
+  {
+    "description": "BITFINEX DOT/UST",
+    "displaySymbol": "DOT/UST",
+    "symbol": "BITFINEX:DOTUST"
+  },
+  {
+    "description": "BITFINEX KNC/USD",
+    "displaySymbol": "KNC/USD",
+    "symbol": "BITFINEX:KNCUSD"
+  },
+  {
+    "description": "BITFINEX ETH/JPY",
+    "displaySymbol": "ETH/JPY",
+    "symbol": "BITFINEX:ETHJPY"
+  },
+  {
+    "description": "BITFINEX PAS/USD",
+    "displaySymbol": "PAS/USD",
+    "symbol": "BITFINEX:PASUSD"
+  },
+  {
+    "description": "BITFINEX OMN/BTC",
+    "displaySymbol": "OMN/BTC",
+    "symbol": "BITFINEX:OMNBTC"
+  },
+  {
+    "description": "BITFINEX VET/USD",
+    "displaySymbol": "VET/USD",
+    "symbol": "BITFINEX:VETUSD"
+  },
+  {
+    "description": "BITFINEX LIN/K:USD",
+    "displaySymbol": "LIN/K:USD",
+    "symbol": "BITFINEX:LINK:USD"
+  },
+  {
+    "description": "BITFINEX ADA/UST",
+    "displaySymbol": "ADA/UST",
+    "symbol": "BITFINEX:ADAUST"
+  },
+  {
+    "description": "BITFINEX GEN/USD",
+    "displaySymbol": "GEN/USD",
+    "symbol": "BITFINEX:GENUSD"
+  },
+  {
+    "description": "BITFINEX WTC/USD",
+    "displaySymbol": "WTC/USD",
+    "symbol": "BITFINEX:WTCUSD"
+  },
+  {
+    "description": "BITFINEX OMG/ETH",
+    "displaySymbol": "OMG/ETH",
+    "symbol": "BITFINEX:OMGETH"
+  },
+  {
+    "description": "BITFINEX XLM/USD",
+    "displaySymbol": "XLM/USD",
+    "symbol": "BITFINEX:XLMUSD"
+  },
+  {
+    "description": "BITFINEX ETH/GBP",
+    "displaySymbol": "ETH/GBP",
+    "symbol": "BITFINEX:ETHGBP"
+  },
+  {
+    "description": "BITFINEX UST/USD",
+    "displaySymbol": "UST/USD",
+    "symbol": "BITFINEX:USTUSD"
+  },
+  {
+    "description": "BITFINEX SOL/USD",
+    "displaySymbol": "SOL/USD",
+    "symbol": "BITFINEX:SOLUSD"
+  },
+  {
+    "description": "BITFINEX XAU/T:UST",
+    "displaySymbol": "XAU/T:UST",
+    "symbol": "BITFINEX:XAUT:UST"
+  },
+  {
+    "description": "BITFINEX QTM/USD",
+    "displaySymbol": "QTM/USD",
+    "symbol": "BITFINEX:QTMUSD"
+  },
+  {
+    "description": "BITFINEX LIN/K:UST",
+    "displaySymbol": "LIN/K:UST",
+    "symbol": "BITFINEX:LINK:UST"
+  },
+  {
+    "description": "BITFINEX PAX/USD",
+    "displaySymbol": "PAX/USD",
+    "symbol": "BITFINEX:PAXUSD"
+  },
+  {
+    "description": "BITFINEX SAN/USD",
+    "displaySymbol": "SAN/USD",
+    "symbol": "BITFINEX:SANUSD"
+  },
+  {
+    "description": "BITFINEX AVA/X:USD",
+    "displaySymbol": "AVA/X:USD",
+    "symbol": "BITFINEX:AVAX:USD"
+  },
+  {
+    "description": "BITFINEX EUS/USD",
+    "displaySymbol": "EUS/USD",
+    "symbol": "BITFINEX:EUSUSD"
+  },
+  {
+    "description": "BITFINEX BTC/EUR",
+    "displaySymbol": "BTC/EUR",
+    "symbol": "BITFINEX:BTCEUR"
+  },
+  {
+    "description": "BITFINEX TRX/EUR",
+    "displaySymbol": "TRX/EUR",
+    "symbol": "BITFINEX:TRXEUR"
+  },
+  {
+    "description": "BITFINEX BTC/XCH",
+    "displaySymbol": "BTC/XCH",
+    "symbol": "BITFINEX:BTCXCH"
+  },
+  {
+    "description": "BITFINEX LTC/USD",
+    "displaySymbol": "LTC/USD",
+    "symbol": "BITFINEX:LTCUSD"
+  },
+  {
+    "description": "BITFINEX BTC/JPY",
+    "displaySymbol": "BTC/JPY",
+    "symbol": "BITFINEX:BTCJPY"
+  },
+  {
+    "description": "BITFINEX TSD/UST",
+    "displaySymbol": "TSD/UST",
+    "symbol": "BITFINEX:TSDUST"
+  },
+  {
+    "description": "BITFINEX XLM/UST",
+    "displaySymbol": "XLM/UST",
+    "symbol": "BITFINEX:XLMUST"
+  },
+  {
+    "description": "BITFINEX AMP/USD",
+    "displaySymbol": "AMP/USD",
+    "symbol": "BITFINEX:AMPUSD"
+  },
+  {
+    "description": "BITFINEX BNT/USD",
+    "displaySymbol": "BNT/USD",
+    "symbol": "BITFINEX:BNTUSD"
+  },
+  {
+    "description": "BITFINEX ALG/USD",
+    "displaySymbol": "ALG/USD",
+    "symbol": "BITFINEX:ALGUSD"
+  },
+  {
+    "description": "BITFINEX KSM/UST",
+    "displaySymbol": "KSM/UST",
+    "symbol": "BITFINEX:KSMUST"
+  },
+  {
+    "description": "BITFINEX BTG/USD",
+    "displaySymbol": "BTG/USD",
+    "symbol": "BITFINEX:BTGUSD"
+  },
+  {
+    "description": "BITFINEX NEO/USD",
+    "displaySymbol": "NEO/USD",
+    "symbol": "BITFINEX:NEOUSD"
+  },
+  {
+    "description": "BITFINEX BTG/BTC",
+    "displaySymbol": "BTG/BTC",
+    "symbol": "BITFINEX:BTGBTC"
+  },
+  {
+    "description": "BITFINEX ATO/ETH",
+    "displaySymbol": "ATO/ETH",
+    "symbol": "BITFINEX:ATOETH"
+  },
+  {
+    "description": "BITFINEX SNG/USD",
+    "displaySymbol": "SNG/USD",
+    "symbol": "BITFINEX:SNGUSD"
+  },
+  {
+    "description": "BITFINEX UTK/USD",
+    "displaySymbol": "UTK/USD",
+    "symbol": "BITFINEX:UTKUSD"
+  },
+  {
+    "description": "BITFINEX SOL/UST",
+    "displaySymbol": "SOL/UST",
+    "symbol": "BITFINEX:SOLUST"
+  },
+  {
+    "description": "BITFINEX LYM/USD",
+    "displaySymbol": "LYM/USD",
+    "symbol": "BITFINEX:LYMUSD"
+  },
+  {
+    "description": "BITFINEX EOS/EUR",
+    "displaySymbol": "EOS/EUR",
+    "symbol": "BITFINEX:EOSEUR"
+  },
+  {
+    "description": "BITFINEX EOS/GBP",
+    "displaySymbol": "EOS/GBP",
+    "symbol": "BITFINEX:EOSGBP"
+  },
+  {
+    "description": "BITFINEX BAL/USD",
+    "displaySymbol": "BAL/USD",
+    "symbol": "BITFINEX:BALUSD"
+  },
+  {
+    "description": "BITFINEX SAN/ETH",
+    "displaySymbol": "SAN/ETH",
+    "symbol": "BITFINEX:SANETH"
+  },
+  {
+    "description": "BITFINEX IOT/USD",
+    "displaySymbol": "IOT/USD",
+    "symbol": "BITFINEX:IOTUSD"
+  },
+  {
+    "description": "BITFINEX OMG/BTC",
+    "displaySymbol": "OMG/BTC",
+    "symbol": "BITFINEX:OMGBTC"
+  },
+  {
+    "description": "BITFINEX CLO/USD",
+    "displaySymbol": "CLO/USD",
+    "symbol": "BITFINEX:CLOUSD"
+  },
+  {
+    "description": "BITFINEX GNO/USD",
+    "displaySymbol": "GNO/USD",
+    "symbol": "BITFINEX:GNOUSD"
+  },
+  {
+    "description": "BITFINEX ZEC/BTC",
+    "displaySymbol": "ZEC/BTC",
+    "symbol": "BITFINEX:ZECBTC"
+  },
+  {
+    "description": "BITFINEX AMP/BTC",
+    "displaySymbol": "AMP/BTC",
+    "symbol": "BITFINEX:AMPBTC"
+  },
+  {
+    "description": "BITFINEX GNT/USD",
+    "displaySymbol": "GNT/USD",
+    "symbol": "BITFINEX:GNTUSD"
+  },
+  {
+    "description": "BITFINEX ZRX/ETH",
+    "displaySymbol": "ZRX/ETH",
+    "symbol": "BITFINEX:ZRXETH"
+  },
+  {
+    "description": "BITFINEX ETH/2X:ETH",
+    "displaySymbol": "ETH/2X:ETH",
+    "symbol": "BITFINEX:ETH2X:ETH"
+  },
+  {
+    "description": "BITFINEX VEE/USD",
+    "displaySymbol": "VEE/USD",
+    "symbol": "BITFINEX:VEEUSD"
+  },
+  {
+    "description": "BITFINEX STJ/USD",
+    "displaySymbol": "STJ/USD",
+    "symbol": "BITFINEX:STJUSD"
+  },
+  {
+    "description": "BITFINEX XAU/T:USD",
+    "displaySymbol": "XAU/T:USD",
+    "symbol": "BITFINEX:XAUT:USD"
+  },
+  {
+    "description": "BITFINEX ETH/USD",
+    "displaySymbol": "ETH/USD",
+    "symbol": "BITFINEX:ETHUSD"
+  },
+  {
+    "description": "BITFINEX DAP/P:USD",
+    "displaySymbol": "DAP/P:USD",
+    "symbol": "BITFINEX:DAPP:USD"
+  },
+  {
+    "description": "BITFINEX LEO/USD",
+    "displaySymbol": "LEO/USD",
+    "symbol": "BITFINEX:LEOUSD"
+  },
+  {
+    "description": "BITFINEX HEZ/UST",
+    "displaySymbol": "HEZ/UST",
+    "symbol": "BITFINEX:HEZUST"
+  },
+  {
+    "description": "BITFINEX XRA/USD",
+    "displaySymbol": "XRA/USD",
+    "symbol": "BITFINEX:XRAUSD"
+  },
+  {
+    "description": "BITFINEX UST/:CNHT",
+    "displaySymbol": "UST/:CNHT",
+    "symbol": "BITFINEX:UST:CNHT"
+  },
+  {
+    "description": "BITFINEX UOS/BTC",
+    "displaySymbol": "UOS/BTC",
+    "symbol": "BITFINEX:UOSBTC"
+  },
+  {
+    "description": "BITFINEX EUT/EUR",
+    "displaySymbol": "EUT/EUR",
+    "symbol": "BITFINEX:EUTEUR"
+  },
+  {
+    "description": "BITFINEX ZRX/USD",
+    "displaySymbol": "ZRX/USD",
+    "symbol": "BITFINEX:ZRXUSD"
+  },
+  {
+    "description": "BITFINEX XDC/UST",
+    "displaySymbol": "XDC/UST",
+    "symbol": "BITFINEX:XDCUST"
+  },
+  {
+    "description": "BITFINEX RBT/BTC",
+    "displaySymbol": "RBT/BTC",
+    "symbol": "BITFINEX:RBTBTC"
+  },
+  {
+    "description": "BITFINEX XLM/BTC",
+    "displaySymbol": "XLM/BTC",
+    "symbol": "BITFINEX:XLMBTC"
+  },
+  {
+    "description": "BITFINEX CNH/:CNHT",
+    "displaySymbol": "CNH/:CNHT",
+    "symbol": "BITFINEX:CNH:CNHT"
+  },
+  {
+    "description": "BITFINEX CTK/USD",
+    "displaySymbol": "CTK/USD",
+    "symbol": "BITFINEX:CTKUSD"
+  },
+  {
+    "description": "BITFINEX QTM/BTC",
+    "displaySymbol": "QTM/BTC",
+    "symbol": "BITFINEX:QTMBTC"
+  },
+  {
+    "description": "BITFINEX XTZ/USD",
+    "displaySymbol": "XTZ/USD",
+    "symbol": "BITFINEX:XTZUSD"
+  },
+  {
+    "description": "BITFINEX KSM/USD",
+    "displaySymbol": "KSM/USD",
+    "symbol": "BITFINEX:KSMUSD"
+  },
+  {
+    "description": "BITFINEX NEO/GBP",
+    "displaySymbol": "NEO/GBP",
+    "symbol": "BITFINEX:NEOGBP"
+  },
+  {
+    "description": "BITFINEX DSH/BTC",
+    "displaySymbol": "DSH/BTC",
+    "symbol": "BITFINEX:DSHBTC"
+  },
+  {
+    "description": "BITFINEX IOT/ETH",
+    "displaySymbol": "IOT/ETH",
+    "symbol": "BITFINEX:IOTETH"
+  },
+  {
+    "description": "BITFINEX DAI/ETH",
+    "displaySymbol": "DAI/ETH",
+    "symbol": "BITFINEX:DAIETH"
+  },
+  {
+    "description": "BITFINEX FTT/UST",
+    "displaySymbol": "FTT/UST",
+    "symbol": "BITFINEX:FTTUST"
+  },
+  {
+    "description": "BITFINEX ATO/USD",
+    "displaySymbol": "ATO/USD",
+    "symbol": "BITFINEX:ATOUSD"
+  },
+  {
+    "description": "BITFINEX NEC/USD",
+    "displaySymbol": "NEC/USD",
+    "symbol": "BITFINEX:NECUSD"
+  },
+  {
+    "description": "BITFINEX NUT/USD",
+    "displaySymbol": "NUT/USD",
+    "symbol": "BITFINEX:NUTUSD"
+  },
+  {
+    "description": "BITFINEX NUT/UST",
+    "displaySymbol": "NUT/UST",
+    "symbol": "BITFINEX:NUTUST"
+  },
+  {
+    "description": "BITFINEX SAN/BTC",
+    "displaySymbol": "SAN/BTC",
+    "symbol": "BITFINEX:SANBTC"
+  },
+  {
+    "description": "BITFINEX KAN/UST",
+    "displaySymbol": "KAN/UST",
+    "symbol": "BITFINEX:KANUST"
+  },
+  {
+    "description": "BITFINEX SUS/HI:UST",
+    "displaySymbol": "SUS/HI:UST",
+    "symbol": "BITFINEX:SUSHI:UST"
+  },
+  {
+    "description": "BITFINEX EUT/USD",
+    "displaySymbol": "EUT/USD",
+    "symbol": "BITFINEX:EUTUSD"
+  },
+  {
+    "description": "BITFINEX IQX/UST",
+    "displaySymbol": "IQX/UST",
+    "symbol": "BITFINEX:IQXUST"
+  },
+  {
+    "description": "BITFINEX UOP/UST",
+    "displaySymbol": "UOP/UST",
+    "symbol": "BITFINEX:UOPUST"
+  },
+  {
+    "description": "BITFINEX DAI/USD",
+    "displaySymbol": "DAI/USD",
+    "symbol": "BITFINEX:DAIUSD"
+  },
+  {
+    "description": "BITFINEX QSH/USD",
+    "displaySymbol": "QSH/USD",
+    "symbol": "BITFINEX:QSHUSD"
+  },
+  {
+    "description": "BITFINEX DGB/USD",
+    "displaySymbol": "DGB/USD",
+    "symbol": "BITFINEX:DGBUSD"
+  },
+  {
+    "description": "BITFINEX ZEC/USD",
+    "displaySymbol": "ZEC/USD",
+    "symbol": "BITFINEX:ZECUSD"
+  },
+  {
+    "description": "BITFINEX EGL/D:USD",
+    "displaySymbol": "EGL/D:USD",
+    "symbol": "BITFINEX:EGLD:USD"
+  },
+  {
+    "description": "BITFINEX BTS/E:USD",
+    "displaySymbol": "BTS/E:USD",
+    "symbol": "BITFINEX:BTSE:USD"
+  },
+  {
+    "description": "BITFINEX DOG/USD",
+    "displaySymbol": "DOG/USD",
+    "symbol": "BITFINEX:DOGUSD"
+  },
+  {
+    "description": "BITFINEX BOX/USD",
+    "displaySymbol": "BOX/USD",
+    "symbol": "BITFINEX:BOXUSD"
+  },
+  {
+    "description": "BITFINEX HEZ/USD",
+    "displaySymbol": "HEZ/USD",
+    "symbol": "BITFINEX:HEZUSD"
+  },
+  {
+    "description": "BITFINEX ANT/BTC",
+    "displaySymbol": "ANT/BTC",
+    "symbol": "BITFINEX:ANTBTC"
+  },
+  {
+    "description": "BITFINEX DAT/USD",
+    "displaySymbol": "DAT/USD",
+    "symbol": "BITFINEX:DATUSD"
+  },
+  {
+    "description": "BITFINEX LEO/BTC",
+    "displaySymbol": "LEO/BTC",
+    "symbol": "BITFINEX:LEOBTC"
+  },
+  {
+    "description": "BITFINEX CHZ/UST",
+    "displaySymbol": "CHZ/UST",
+    "symbol": "BITFINEX:CHZUST"
+  },
+  {
+    "description": "BITFINEX CTK/UST",
+    "displaySymbol": "CTK/UST",
+    "symbol": "BITFINEX:CTKUST"
+  },
+  {
+    "description": "BITFINEX EDO/USD",
+    "displaySymbol": "EDO/USD",
+    "symbol": "BITFINEX:EDOUSD"
+  },
+  {
+    "description": "BITFINEX AMP/UST",
+    "displaySymbol": "AMP/UST",
+    "symbol": "BITFINEX:AMPUST"
+  },
+  {
+    "description": "BITFINEX MNA/BTC",
+    "displaySymbol": "MNA/BTC",
+    "symbol": "BITFINEX:MNABTC"
+  },
+  {
+    "description": "BITFINEX TRX/USD",
+    "displaySymbol": "TRX/USD",
+    "symbol": "BITFINEX:TRXUSD"
+  },
+  {
+    "description": "BITFINEX ETH/UST",
+    "displaySymbol": "ETH/UST",
+    "symbol": "BITFINEX:ETHUST"
+  },
+  {
+    "description": "BITFINEX LTC/UST",
+    "displaySymbol": "LTC/UST",
+    "symbol": "BITFINEX:LTCUST"
+  },
+  {
+    "description": "BITFINEX BTC/:CNHT",
+    "displaySymbol": "BTC/:CNHT",
+    "symbol": "BITFINEX:BTC:CNHT"
+  },
+  {
+    "description": "BITFINEX RCN/USD",
+    "displaySymbol": "RCN/USD",
+    "symbol": "BITFINEX:RCNUSD"
+  },
+  {
+    "description": "BITFINEX IOT/EUR",
+    "displaySymbol": "IOT/EUR",
+    "symbol": "BITFINEX:IOTEUR"
+  },
+  {
+    "description": "BITFINEX XRP/USD",
+    "displaySymbol": "XRP/USD",
+    "symbol": "BITFINEX:XRPUSD"
+  },
+  {
+    "description": "BITFINEX TSD/USD",
+    "displaySymbol": "TSD/USD",
+    "symbol": "BITFINEX:TSDUSD"
+  },
+  {
+    "description": "BITFINEX EUS/BTC",
+    "displaySymbol": "EUS/BTC",
+    "symbol": "BITFINEX:EUSBTC"
+  },
+  {
+    "description": "BITFINEX WAX/USD",
+    "displaySymbol": "WAX/USD",
+    "symbol": "BITFINEX:WAXUSD"
+  },
+  {
+    "description": "BITFINEX TES/TBTC:TESTUSDT",
+    "displaySymbol": "TES/TBTC:TESTUSDT",
+    "symbol": "BITFINEX:TESTBTC:TESTUSDT"
+  },
+  {
+    "description": "BITFINEX GTX/UST",
+    "displaySymbol": "GTX/UST",
+    "symbol": "BITFINEX:GTXUST"
+  },
+  {
+    "description": "BITFINEX OKB/USD",
+    "displaySymbol": "OKB/USD",
+    "symbol": "BITFINEX:OKBUSD"
+  },
+  {
+    "description": "BITFINEX XTZ/BTC",
+    "displaySymbol": "XTZ/BTC",
+    "symbol": "BITFINEX:XTZBTC"
+  },
+  {
+    "description": "BITFINEX WBT/USD",
+    "displaySymbol": "WBT/USD",
+    "symbol": "BITFINEX:WBTUSD"
+  },
+  {
+    "description": "BITFINEX PNK/USD",
+    "displaySymbol": "PNK/USD",
+    "symbol": "BITFINEX:PNKUSD"
+  },
+  {
+    "description": "BITFINEX BCH/ABC:USD",
+    "displaySymbol": "BCH/ABC:USD",
+    "symbol": "BITFINEX:BCHABC:USD"
+  },
+  {
+    "description": "BITFINEX ONL/USD",
+    "displaySymbol": "ONL/USD",
+    "symbol": "BITFINEX:ONLUSD"
+  },
+  {
+    "description": "BITFINEX XSN/USD",
+    "displaySymbol": "XSN/USD",
+    "symbol": "BITFINEX:XSNUSD"
+  },
+  {
+    "description": "BITFINEX FUN/USD",
+    "displaySymbol": "FUN/USD",
+    "symbol": "BITFINEX:FUNUSD"
+  },
+  {
+    "description": "BITFINEX ETP/BTC",
+    "displaySymbol": "ETP/BTC",
+    "symbol": "BITFINEX:ETPBTC"
+  },
+  {
+    "description": "BITFINEX COM/P:UST",
+    "displaySymbol": "COM/P:UST",
+    "symbol": "BITFINEX:COMP:UST"
+  },
+  {
+    "description": "BITFINEX DOG/UST",
+    "displaySymbol": "DOG/UST",
+    "symbol": "BITFINEX:DOGUST"
+  },
+  {
+    "description": "BITFINEX RRB/UST",
+    "displaySymbol": "RRB/UST",
+    "symbol": "BITFINEX:RRBUST"
+  },
+  {
+    "description": "BITFINEX LRC/BTC",
+    "displaySymbol": "LRC/BTC",
+    "symbol": "BITFINEX:LRCBTC"
+  },
+  {
+    "description": "BITFINEX XVG/USD",
+    "displaySymbol": "XVG/USD",
+    "symbol": "BITFINEX:XVGUSD"
+  },
+  {
+    "description": "BITFINEX GOT/EUR",
+    "displaySymbol": "GOT/EUR",
+    "symbol": "BITFINEX:GOTEUR"
+  },
+  {
+    "description": "BITFINEX XMR/BTC",
+    "displaySymbol": "XMR/BTC",
+    "symbol": "BITFINEX:XMRBTC"
+  },
+  {
+    "description": "BITFINEX MTN/USD",
+    "displaySymbol": "MTN/USD",
+    "symbol": "BITFINEX:MTNUSD"
+  },
+  {
+    "description": "BITFINEX DOT/USD",
+    "displaySymbol": "DOT/USD",
+    "symbol": "BITFINEX:DOTUSD"
+  },
+  {
+    "description": "BITFINEX DUS/K:BTC",
+    "displaySymbol": "DUS/K:BTC",
+    "symbol": "BITFINEX:DUSK:BTC"
+  },
+  {
+    "description": "BITFINEX DOT/BTC",
+    "displaySymbol": "DOT/BTC",
+    "symbol": "BITFINEX:DOTBTC"
+  },
+  {
+    "description": "BITFINEX REP/USD",
+    "displaySymbol": "REP/USD",
+    "symbol": "BITFINEX:REPUSD"
+  },
+  {
+    "description": "BITFINEX ETH/2X:UST",
+    "displaySymbol": "ETH/2X:UST",
+    "symbol": "BITFINEX:ETH2X:UST"
+  },
+  {
+    "description": "BITFINEX EOS/BTC",
+    "displaySymbol": "EOS/BTC",
+    "symbol": "BITFINEX:EOSBTC"
+  },
+  {
+    "description": "BITFINEX FET/USD",
+    "displaySymbol": "FET/USD",
+    "symbol": "BITFINEX:FETUSD"
+  },
+  {
+    "description": "BITFINEX GTX/USD",
+    "displaySymbol": "GTX/USD",
+    "symbol": "BITFINEX:GTXUSD"
+  },
+  {
+    "description": "BITFINEX IOT/BTC",
+    "displaySymbol": "IOT/BTC",
+    "symbol": "BITFINEX:IOTBTC"
+  },
+  {
+    "description": "BITFINEX MKR/BTC",
+    "displaySymbol": "MKR/BTC",
+    "symbol": "BITFINEX:MKRBTC"
+  },
+  {
+    "description": "BITFINEX DAI/BTC",
+    "displaySymbol": "DAI/BTC",
+    "symbol": "BITFINEX:DAIBTC"
+  },
+  {
+    "description": "BITFINEX XRP/BTC",
+    "displaySymbol": "XRP/BTC",
+    "symbol": "BITFINEX:XRPBTC"
+  },
+  {
+    "description": "BITFINEX TRI/USD",
+    "displaySymbol": "TRI/USD",
+    "symbol": "BITFINEX:TRIUSD"
+  },
+  {
+    "description": "BITFINEX AST/USD",
+    "displaySymbol": "AST/USD",
+    "symbol": "BITFINEX:ASTUSD"
+  },
+  {
+    "description": "BITFINEX ALG/BTC",
+    "displaySymbol": "ALG/BTC",
+    "symbol": "BITFINEX:ALGBTC"
+  },
+  {
+    "description": "BITFINEX OMG/USD",
+    "displaySymbol": "OMG/USD",
+    "symbol": "BITFINEX:OMGUSD"
+  },
+  {
+    "description": "BITFINEX EDO/ETH",
+    "displaySymbol": "EDO/ETH",
+    "symbol": "BITFINEX:EDOETH"
+  },
+  {
+    "description": "BITFINEX RRB/USD",
+    "displaySymbol": "RRB/USD",
+    "symbol": "BITFINEX:RRBUSD"
+  },
+  {
+    "description": "BITFINEX FIL/USD",
+    "displaySymbol": "FIL/USD",
+    "symbol": "BITFINEX:FILUSD"
+  },
+  {
+    "description": "BITFINEX EUT/UST",
+    "displaySymbol": "EUT/UST",
+    "symbol": "BITFINEX:EUTUST"
+  },
+  {
+    "description": "BITFINEX LEO/EOS",
+    "displaySymbol": "LEO/EOS",
+    "symbol": "BITFINEX:LEOEOS"
+  },
+  {
+    "description": "BITFINEX DGX/USD",
+    "displaySymbol": "DGX/USD",
+    "symbol": "BITFINEX:DGXUSD"
+  },
+  {
+    "description": "BITFINEX DTA/USD",
+    "displaySymbol": "DTA/USD",
+    "symbol": "BITFINEX:DTAUSD"
+  },
+  {
+    "description": "BITFINEX LTC/BTC",
+    "displaySymbol": "LTC/BTC",
+    "symbol": "BITFINEX:LTCBTC"
+  },
+  {
+    "description": "BITFINEX JST/BTC",
+    "displaySymbol": "JST/BTC",
+    "symbol": "BITFINEX:JSTBTC"
+  },
+  {
+    "description": "BITFINEX ANT/USD",
+    "displaySymbol": "ANT/USD",
+    "symbol": "BITFINEX:ANTUSD"
+  },
+  {
+    "description": "BITFINEX EGL/D:UST",
+    "displaySymbol": "EGL/D:UST",
+    "symbol": "BITFINEX:EGLD:UST"
+  },
+  {
+    "description": "BITFINEX B21/X:USD",
+    "displaySymbol": "B21/X:USD",
+    "symbol": "BITFINEX:B21X:USD"
+  },
+  {
+    "description": "BITFINEX NEO/BTC",
+    "displaySymbol": "NEO/BTC",
+    "symbol": "BITFINEX:NEOBTC"
+  },
+  {
+    "description": "BITFINEX COM/P:USD",
+    "displaySymbol": "COM/P:USD",
+    "symbol": "BITFINEX:COMP:USD"
+  },
+  {
+    "description": "BITFINEX SNX/UST",
+    "displaySymbol": "SNX/UST",
+    "symbol": "BITFINEX:SNXUST"
+  },
+  {
+    "description": "BITFINEX DAP/P:UST",
+    "displaySymbol": "DAP/P:UST",
+    "symbol": "BITFINEX:DAPP:UST"
+  },
+  {
+    "description": "BITFINEX NEO/ETH",
+    "displaySymbol": "NEO/ETH",
+    "symbol": "BITFINEX:NEOETH"
+  },
+  {
+    "description": "BITFINEX UNI/USD",
+    "displaySymbol": "UNI/USD",
+    "symbol": "BITFINEX:UNIUSD"
+  },
+  {
+    "description": "BITFINEX SUN/UST",
+    "displaySymbol": "SUN/UST",
+    "symbol": "BITFINEX:SUNUST"
+  },
+  {
+    "description": "BITFINEX BTT/USD",
+    "displaySymbol": "BTT/USD",
+    "symbol": "BITFINEX:BTTUSD"
+  },
+  {
+    "description": "BITFINEX EOS/DT:USD",
+    "displaySymbol": "EOS/DT:USD",
+    "symbol": "BITFINEX:EOSDT:USD"
+  },
+  {
+    "description": "BITFINEX UOP/USD",
+    "displaySymbol": "UOP/USD",
+    "symbol": "BITFINEX:UOPUSD"
+  },
+  {
+    "description": "BITFINEX UDC/UST",
+    "displaySymbol": "UDC/UST",
+    "symbol": "BITFINEX:UDCUST"
+  },
+  {
+    "description": "BITFINEX ETC/USD",
+    "displaySymbol": "ETC/USD",
+    "symbol": "BITFINEX:ETCUSD"
+  },
+  {
+    "description": "BITFINEX NEC/ETH",
+    "displaySymbol": "NEC/ETH",
+    "symbol": "BITFINEX:NECETH"
+  },
+  {
+    "description": "BITFINEX BAN/D:USD",
+    "displaySymbol": "BAN/D:USD",
+    "symbol": "BITFINEX:BAND:USD"
+  },
+  {
+    "description": "BITFINEX PLU/USD",
+    "displaySymbol": "PLU/USD",
+    "symbol": "BITFINEX:PLUUSD"
+  },
+  {
+    "description": "BITFINEX ADA/BTC",
+    "displaySymbol": "ADA/BTC",
+    "symbol": "BITFINEX:ADABTC"
+  },
+  {
+    "description": "BITFINEX GNT/ETH",
+    "displaySymbol": "GNT/ETH",
+    "symbol": "BITFINEX:GNTETH"
+  },
+  {
+    "description": "BITFINEX MGO/USD",
+    "displaySymbol": "MGO/USD",
+    "symbol": "BITFINEX:MGOUSD"
+  },
+  {
+    "description": "BITFINEX PNK/ETH",
+    "displaySymbol": "PNK/ETH",
+    "symbol": "BITFINEX:PNKETH"
+  },
+  {
+    "description": "BITFINEX FET/UST",
+    "displaySymbol": "FET/UST",
+    "symbol": "BITFINEX:FETUST"
+  },
+  {
+    "description": "BITFINEX EOS/UST",
+    "displaySymbol": "EOS/UST",
+    "symbol": "BITFINEX:EOSUST"
+  },
+  {
+    "description": "BITFINEX REP/BTC",
+    "displaySymbol": "REP/BTC",
+    "symbol": "BITFINEX:REPBTC"
+  },
+  {
+    "description": "BITFINEX XMR/UST",
+    "displaySymbol": "XMR/UST",
+    "symbol": "BITFINEX:XMRUST"
+  },
+  {
+    "description": "BITFINEX DTX/USD",
+    "displaySymbol": "DTX/USD",
+    "symbol": "BITFINEX:DTXUSD"
+  },
+  {
+    "description": "BITFINEX LEO/UST",
+    "displaySymbol": "LEO/UST",
+    "symbol": "BITFINEX:LEOUST"
+  },
+  {
+    "description": "BITFINEX DSH/USD",
+    "displaySymbol": "DSH/USD",
+    "symbol": "BITFINEX:DSHUSD"
+  },
+  {
+    "description": "BITFINEX BSV/BTC",
+    "displaySymbol": "BSV/BTC",
+    "symbol": "BITFINEX:BSVBTC"
+  },
+  {
+    "description": "BITFINEX ZCN/USD",
+    "displaySymbol": "ZCN/USD",
+    "symbol": "BITFINEX:ZCNUSD"
+  },
+  {
+    "description": "BITFINEX JST/USD",
+    "displaySymbol": "JST/USD",
+    "symbol": "BITFINEX:JSTUSD"
+  },
+  {
+    "description": "BITFINEX ETH/BTC",
+    "displaySymbol": "ETH/BTC",
+    "symbol": "BITFINEX:ETHBTC"
+  },
+  {
+    "description": "BITFINEX RRT/USD",
+    "displaySymbol": "RRT/USD",
+    "symbol": "BITFINEX:RRTUSD"
+  },
+  {
+    "description": "BITFINEX CHZ/USD",
+    "displaySymbol": "CHZ/USD",
+    "symbol": "BITFINEX:CHZUSD"
+  },
+  {
+    "description": "BITFINEX ETH/EUR",
+    "displaySymbol": "ETH/EUR",
+    "symbol": "BITFINEX:ETHEUR"
+  },
+  {
+    "description": "BITFINEX VET/BTC",
+    "displaySymbol": "VET/BTC",
+    "symbol": "BITFINEX:VETBTC"
+  },
+  {
+    "description": "BITFINEX MAN/USD",
+    "displaySymbol": "MAN/USD",
+    "symbol": "BITFINEX:MANUSD"
+  },
+  {
+    "description": "BITFINEX EXR/D:BTC",
+    "displaySymbol": "EXR/D:BTC",
+    "symbol": "BITFINEX:EXRD:BTC"
+  },
+  {
+    "description": "BITFINEX TKN/USD",
+    "displaySymbol": "TKN/USD",
+    "symbol": "BITFINEX:TKNUSD"
+  },
+  {
+    "description": "BITFINEX DOG/BTC",
+    "displaySymbol": "DOG/BTC",
+    "symbol": "BITFINEX:DOGBTC"
+  },
+  {
+    "description": "BITFINEX ORS/USD",
+    "displaySymbol": "ORS/USD",
+    "symbol": "BITFINEX:ORSUSD"
+  },
+  {
+    "description": "BITFINEX RIN/GX:USD",
+    "displaySymbol": "RIN/GX:USD",
+    "symbol": "BITFINEX:RINGX:USD"
+  },
+  {
+    "description": "BITFINEX PAX/UST",
+    "displaySymbol": "PAX/UST",
+    "symbol": "BITFINEX:PAXUST"
+  },
+  {
+    "description": "BITFINEX RIF/USD",
+    "displaySymbol": "RIF/USD",
+    "symbol": "BITFINEX:RIFUSD"
+  },
+  {
+    "description": "BITFINEX LRC/USD",
+    "displaySymbol": "LRC/USD",
+    "symbol": "BITFINEX:LRCUSD"
+  },
+  {
+    "description": "BITFINEX IOS/USD",
+    "displaySymbol": "IOS/USD",
+    "symbol": "BITFINEX:IOSUSD"
+  },
+  {
+    "description": "BITFINEX KNC/BTC",
+    "displaySymbol": "KNC/BTC",
+    "symbol": "BITFINEX:KNCBTC"
+  },
+  {
+    "description": "BITFINEX ATO/BTC",
+    "displaySymbol": "ATO/BTC",
+    "symbol": "BITFINEX:ATOBTC"
+  },
+  {
+    "description": "BITFINEX AVA/X:UST",
+    "displaySymbol": "AVA/X:UST",
+    "symbol": "BITFINEX:AVAX:UST"
+  },
+  {
+    "description": "BITFINEX TRX/ETH",
+    "displaySymbol": "TRX/ETH",
+    "symbol": "BITFINEX:TRXETH"
+  },
+  {
+    "description": "BITFINEX BSV/USD",
+    "displaySymbol": "BSV/USD",
+    "symbol": "BITFINEX:BSVUSD"
+  },
+  {
+    "description": "BITFINEX BTC/GBP",
+    "displaySymbol": "BTC/GBP",
+    "symbol": "BITFINEX:BTCGBP"
+  },
+  {
+    "description": "BITFINEX TRX/BTC",
+    "displaySymbol": "TRX/BTC",
+    "symbol": "BITFINEX:TRXBTC"
+  },
+  {
+    "description": "BITFINEX BAT/USD",
+    "displaySymbol": "BAT/USD",
+    "symbol": "BITFINEX:BATUSD"
+  },
+  {
+    "description": "BITFINEX BAN/D:UST",
+    "displaySymbol": "BAN/D:UST",
+    "symbol": "BITFINEX:BAND:UST"
+  },
+  {
+    "description": "BITFINEX NEO/EUR",
+    "displaySymbol": "NEO/EUR",
+    "symbol": "BITFINEX:NEOEUR"
+  },
+  {
+    "description": "BITFINEX YYW/USD",
+    "displaySymbol": "YYW/USD",
+    "symbol": "BITFINEX:YYWUSD"
+  },
+  {
+    "description": "BITFINEX BAT/BTC",
+    "displaySymbol": "BAT/BTC",
+    "symbol": "BITFINEX:BATBTC"
+  },
+  {
+    "description": "BITFINEX DRN/USD",
+    "displaySymbol": "DRN/USD",
+    "symbol": "BITFINEX:DRNUSD"
+  },
+  {
+    "description": "BITFINEX JST/UST",
+    "displaySymbol": "JST/UST",
+    "symbol": "BITFINEX:JSTUST"
+  },
+  {
+    "description": "BITFINEX AAV/E:USD",
+    "displaySymbol": "AAV/E:USD",
+    "symbol": "BITFINEX:AAVE:USD"
+  },
+  {
+    "description": "BITFINEX ZRX/BTC",
+    "displaySymbol": "ZRX/BTC",
+    "symbol": "BITFINEX:ZRXBTC"
+  },
+  {
+    "description": "BITFINEX MKR/USD",
+    "displaySymbol": "MKR/USD",
+    "symbol": "BITFINEX:MKRUSD"
+  },
+  {
+    "description": "BITFINEX IOT/JPY",
+    "displaySymbol": "IOT/JPY",
+    "symbol": "BITFINEX:IOTJPY"
+  },
+  {
+    "description": "BITFINEX GOT/USD",
+    "displaySymbol": "GOT/USD",
+    "symbol": "BITFINEX:GOTUSD"
+  },
+  {
+    "description": "BITFINEX MLN/USD",
+    "displaySymbol": "MLN/USD",
+    "symbol": "BITFINEX:MLNUSD"
+  },
+  {
+    "description": "BITFINEX ODE/USD",
+    "displaySymbol": "ODE/USD",
+    "symbol": "BITFINEX:ODEUSD"
+  },
+  {
+    "description": "BITFINEX BTC/UST",
+    "displaySymbol": "BTC/UST",
+    "symbol": "BITFINEX:BTCUST"
+  },
+  {
+    "description": "BITFINEX BFT/USD",
+    "displaySymbol": "BFT/USD",
+    "symbol": "BITFINEX:BFTUSD"
+  },
+  {
+    "description": "BITFINEX LEO/ETH",
+    "displaySymbol": "LEO/ETH",
+    "symbol": "BITFINEX:LEOETH"
+  },
+  {
+    "description": "BITFINEX B21/X:UST",
+    "displaySymbol": "B21/X:UST",
+    "symbol": "BITFINEX:B21X:UST"
+  },
+  {
+    "description": "BITFINEX OKB/UST",
+    "displaySymbol": "OKB/UST",
+    "symbol": "BITFINEX:OKBUST"
+  },
+  {
+    "description": "BITFINEX OMN/USD",
+    "displaySymbol": "OMN/USD",
+    "symbol": "BITFINEX:OMNUSD"
+  },
+  {
+    "description": "BITFINEX CTX/USD",
+    "displaySymbol": "CTX/USD",
+    "symbol": "BITFINEX:CTXUSD"
+  },
+  {
+    "description": "BITFINEX REQ/USD",
+    "displaySymbol": "REQ/USD",
+    "symbol": "BITFINEX:REQUSD"
+  },
+  {
+    "description": "BITFINEX AVT/USD",
+    "displaySymbol": "AVT/USD",
+    "symbol": "BITFINEX:AVTUSD"
+  },
+  {
+    "description": "BITFINEX DAT/BTC",
+    "displaySymbol": "DAT/BTC",
+    "symbol": "BITFINEX:DATBTC"
+  },
+  {
+    "description": "BITFINEX EOS/DT:UST",
+    "displaySymbol": "EOS/DT:UST",
+    "symbol": "BITFINEX:EOSDT:UST"
+  },
+  {
+    "description": "BITFINEX XLM/ETH",
+    "displaySymbol": "XLM/ETH",
+    "symbol": "BITFINEX:XLMETH"
+  },
+  {
+    "description": "BITFINEX MNA/USD",
+    "displaySymbol": "MNA/USD",
+    "symbol": "BITFINEX:MNAUSD"
+  },
+  {
+    "description": "BITFINEX FIL/UST",
+    "displaySymbol": "FIL/UST",
+    "symbol": "BITFINEX:FILUST"
+  },
+  {
+    "description": "BITFINEX ADA/USD",
+    "displaySymbol": "ADA/USD",
+    "symbol": "BITFINEX:ADAUSD"
+  },
+  {
+    "description": "BITFINEX EXR/D:USD",
+    "displaySymbol": "EXR/D:USD",
+    "symbol": "BITFINEX:EXRD:USD"
+  },
+  {
+    "description": "BITFINEX AAA/BBB",
+    "displaySymbol": "AAA/BBB",
+    "symbol": "BITFINEX:AAABBB"
+  },
+  {
+    "description": "BITFINEX ETP/ETH",
+    "displaySymbol": "ETP/ETH",
+    "symbol": "BITFINEX:ETPETH"
+  },
+  {
+    "description": "BITFINEX GNT/BTC",
+    "displaySymbol": "GNT/BTC",
+    "symbol": "BITFINEX:GNTBTC"
+  },
+  {
+    "description": "BITFINEX ZBT/USD",
+    "displaySymbol": "ZBT/USD",
+    "symbol": "BITFINEX:ZBTUSD"
+  },
+  {
+    "description": "BITFINEX RBT/USD",
+    "displaySymbol": "RBT/USD",
+    "symbol": "BITFINEX:RBTUSD"
+  },
+  {
+    "description": "BITFINEX POA/USD",
+    "displaySymbol": "POA/USD",
+    "symbol": "BITFINEX:POAUSD"
+  },
+  {
+    "description": "BITFINEX SUS/HI:USD",
+    "displaySymbol": "SUS/HI:USD",
+    "symbol": "BITFINEX:SUSHI:USD"
+  },
+  {
+    "description": "BITFINEX YFI/UST",
+    "displaySymbol": "YFI/UST",
+    "symbol": "BITFINEX:YFIUST"
+  },
+  {
+    "description": "BITFINEX VSY/USD",
+    "displaySymbol": "VSY/USD",
+    "symbol": "BITFINEX:VSYUSD"
+  },
+  {
+    "description": "BITFINEX SWM/USD",
+    "displaySymbol": "SWM/USD",
+    "symbol": "BITFINEX:SWMUSD"
+  },
+  {
+    "description": "BITFINEX XCH/USD",
+    "displaySymbol": "XCH/USD",
+    "symbol": "BITFINEX:XCHUSD"
+  },
+  {
+    "description": "BITFINEX ENJ/USD",
+    "displaySymbol": "ENJ/USD",
+    "symbol": "BITFINEX:ENJUSD"
+  },
+  {
+    "description": "BITFINEX CND/USD",
+    "displaySymbol": "CND/USD",
+    "symbol": "BITFINEX:CNDUSD"
+  },
+  {
+    "description": "BITFINEX XDC/USD",
+    "displaySymbol": "XDC/USD",
+    "symbol": "BITFINEX:XDCUSD"
+  },
+  {
+    "description": "BITFINEX SNX/USD",
+    "displaySymbol": "SNX/USD",
+    "symbol": "BITFINEX:SNXUSD"
+  },
+  {
+    "description": "BITFINEX SNT/USD",
+    "displaySymbol": "SNT/USD",
+    "symbol": "BITFINEX:SNTUSD"
+  },
+  {
+    "description": "BITFINEX AAV/E:UST",
+    "displaySymbol": "AAV/E:UST",
+    "symbol": "BITFINEX:AAVE:UST"
+  },
+  {
+    "description": "BITFINEX EOS/USD",
+    "displaySymbol": "EOS/USD",
+    "symbol": "BITFINEX:EOSUSD"
+  },
+  {
+    "description": "BITFINEX SUN/USD",
+    "displaySymbol": "SUN/USD",
+    "symbol": "BITFINEX:SUNUSD"
+  },
+  {
+    "description": "BITFINEX EDO/BTC",
+    "displaySymbol": "EDO/BTC",
+    "symbol": "BITFINEX:EDOBTC"
+  },
+  {
+    "description": "BITFINEX IOT/GBP",
+    "displaySymbol": "IOT/GBP",
+    "symbol": "BITFINEX:IOTGBP"
+  },
+  {
+    "description": "BITFINEX KAN/USD",
+    "displaySymbol": "KAN/USD",
+    "symbol": "BITFINEX:KANUSD"
+  },
+  {
+    "description": "BITFINEX XMR/USD",
+    "displaySymbol": "XMR/USD",
+    "symbol": "BITFINEX:XMRUSD"
+  },
+  {
+    "description": "BITFINEX ALG/UST",
+    "displaySymbol": "ALG/UST",
+    "symbol": "BITFINEX:ALGUST"
+  },
+  {
+    "description": "BITFINEX HOT/USD",
+    "displaySymbol": "HOT/USD",
+    "symbol": "BITFINEX:HOTUSD"
+  },
+  {
+    "description": "BITFINEX EOS/JPY",
+    "displaySymbol": "EOS/JPY",
+    "symbol": "BITFINEX:EOSJPY"
+  },
+  {
+    "description": "BITFINEX BTC/USD",
+    "displaySymbol": "BTC/USD",
+    "symbol": "BITFINEX:BTCUSD"
+  },
+  {
+    "description": "BITFINEX EOS/ETH",
+    "displaySymbol": "EOS/ETH",
+    "symbol": "BITFINEX:EOSETH"
+  },
+  {
+    "description": "BITFINEX YFI/USD",
+    "displaySymbol": "YFI/USD",
+    "symbol": "BITFINEX:YFIUSD"
+  },
+  {
+    "description": "BITFINEX VSY/BTC",
+    "displaySymbol": "VSY/BTC",
+    "symbol": "BITFINEX:VSYBTC"
+  },
+  {
+    "description": "BITFINEX ESS/USD",
+    "displaySymbol": "ESS/USD",
+    "symbol": "BITFINEX:ESSUSD"
+  },
+  {
+    "description": "BITFINEX FTT/USD",
+    "displaySymbol": "FTT/USD",
+    "symbol": "BITFINEX:FTTUSD"
+  },
+  {
+    "description": "BITFINEX XAU/T:BTC",
+    "displaySymbol": "XAU/T:BTC",
+    "symbol": "BITFINEX:XAUT:BTC"
+  },
+  {
+    "description": "BITFINEX ETP/USD",
+    "displaySymbol": "ETP/USD",
+    "symbol": "BITFINEX:ETPUSD"
+  },
+  {
+    "description": "BITFINEX WBT/ETH",
+    "displaySymbol": "WBT/ETH",
+    "symbol": "BITFINEX:WBTETH"
+  },
+  {
+    "description": "BITFINEX BAT/ETH",
+    "displaySymbol": "BAT/ETH",
+    "symbol": "BITFINEX:BATETH"
+  }
+]

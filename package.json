@@ -13,6 +13,7 @@
   "author": "Richard Lee",
   "license": "GPL-3.0",
   "dependencies": {
+    "moment-timezone": "^0.5.33",
     "node-fetch": "^2.6.1"
   }
 }
